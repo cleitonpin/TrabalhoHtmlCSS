@@ -1,0 +1,58 @@
+body {
+    font-family: 'Trade Winds', cursive;
+    padding: 0; 
+    margin: 0; 
+    background-color: black;
+    overflow-y: hidden;
+}
+ul, li {
+
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+
+}
+
+.lista ul li a{
+    color: black;
+    padding-bottom: 20px;
+}
+a:hover{ text-decoration: none; }
+h2 {
+    padding:  20px 15px 15px 20px;
+   
+}
+.menu {
+    background-color: darkcyan; 
+    /* float: top;  */
+    padding-left: 10px; 
+    padding-right: 10px;
+    position: fixed;
+    height: 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.anime h1{
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.anime a{
+    /* text-align: center; */
+    /* padding-left: 80vh; */
+    color: white;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.anime p{
+    text-align: center;
+}
